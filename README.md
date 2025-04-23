@@ -1,18 +1,21 @@
 <p align="center">
-    <img width="200" height="auto" src="https://i.ibb.co/6JJ12mt/googlemaps-removebg-preview.png" alt="Google Map Logo" />
+    <img width="200" height="auto" src="https://i.ibb.co/6JJ12mt/googlemaps-removebg-preview.png" alt="Carnav Logo" />
 </p>
-   
-**Google Maps** is a web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, air and public transportation
+
+# Carnav
+
+**Carnav** is a modern web-based navigation app inspired by Google Maps. It offers real-time navigation, HUD mode, animated speed display, ETA color coding, fullscreen mode, and a mobile-friendly interface.
+
+[View on GitHub](https://github.com/FUNGI432/carnav)
 
 
 ### Built With
-* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-
-### Deployed In
-* [Netlify](https://netlify.com/)
+* JavaScript
+* Mapbox GL JS
+* HTML & CSS
 
 ```bash
-📦  Google-Map-Clone-main
+📦  Carnav
 ├── app.js
 ├── index.html
 ├── LICENSE
@@ -24,21 +27,25 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/suhailkakar/Google-Map-Clone
+   git clone https://github.com/FUNGI432/carnav.git
    ```
 2. Run the app
    ```sh
-   open index.html file
+   open index.html
    ```
 
 ### Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are welcome! Feel free to fork the project, make changes, and open a pull request.
 
 1. Fork the Project
-3. Commit your Changes (`git commit -m 'Some Good Features'`)
-4. Push to the Code (`git push -u origin master `)
-5. Open a Pull Request
+2. Commit your changes (`git commit -m 'Add new feature'`)
+3. Push to your fork (`git push -u origin main`)
+4. Open a Pull Request
+
+---
+
+**Maintained by [FUNGI432](https://github.com/FUNGI432) — amangangwar432@gmail.com**
 
 
 ## License
